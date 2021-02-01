@@ -1,2 +1,2 @@
 # ISSurvive
-Spaceman get's spooked in a big ol empty tin can 
+Spaceman gets spooked in a big ol empty tin can 
